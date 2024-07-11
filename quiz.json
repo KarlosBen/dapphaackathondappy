@@ -1,19 +1,64 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of famous books and authors.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who wrote '1984'?",
+      "answers": ["Orwell", "Huxley", "Atwood"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who wrote 'Moby-Dick'?",
+      "answers": ["Melville", "Twain", "London"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who wrote 'Hamlet'?",
+      "answers": ["Shakes", "Marlowe", "Chaucer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who wrote 'The Great Gatsby'?",
+      "answers": ["Fitz", "Heming", "Stein"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "answers": ["Austen", "Bronte", "Woolf"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who wrote 'The Catcher in the Rye'?",
+      "answers": ["Salinger", "Twain", "Heming"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answers": ["Lee", "Stein", "Twain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who wrote 'War and Peace'?",
+      "answers": ["Tolstoy", "Homer", "Kafka"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who wrote 'The Odyssey'?",
+      "answers": ["Homer", "Virgil", "Sappho"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who wrote 'Frankenstein'?",
+      "answers": ["Shelley", "Stoker", "Wilde"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who wrote 'Jane Eyre'?",
+      "answers": ["Bronte", "Eliot", "Gaskell"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who wrote 'The Hobbit'?",
+      "answers": ["Tolkien", "Lewis", "Rowling"],
       "correctAnswerIndex": 0
     }
   ]
